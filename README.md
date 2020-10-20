@@ -28,9 +28,6 @@ environment in a sub-directory of your project directory by running the followin
 ```bash
 $ conda env create --prefix ./env --file environment.yml
 ```
-
-It is recommended to rename `environment.yml` to something specific to the project like `myproject-env.yml`.
-
 Once the new environment has been created you can activate the environment with the following 
 command.
 
